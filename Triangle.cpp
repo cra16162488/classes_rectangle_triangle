@@ -1,4 +1,4 @@
-#include "Triangle.hpp"
+#include "Triangle.h"
 
 Triangle::Triangle(float side0, float side1, float side2)
 {

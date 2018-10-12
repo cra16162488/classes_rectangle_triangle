@@ -1,4 +1,4 @@
-#include "Rectangle.hpp"
+#include "Rectangle.h"
 
 Rectangle::Rectangle(float width, float height)
 : m_width(width)
